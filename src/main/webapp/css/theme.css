@@ -1,0 +1,13 @@
+html, body, .container {
+    height: 70%;
+}
+.container {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    text-align: right;
+}
+h1 {
+    padding-top: 35px;
+    text-align: center;
+}
